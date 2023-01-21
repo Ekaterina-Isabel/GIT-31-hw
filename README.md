@@ -11,5 +11,4 @@
 
 1.3. Командная работа в Git & GitHub
    [Задача 1, 2](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-fork), 
-   [Задача 2](https://github.com/netology-code/git-homeworks-neuro-issues/issues), 
    [Задача 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-pr)
