@@ -10,5 +10,4 @@
    [Задача 2, 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-merge)
 
 1.3. Командная работа в Git & GitHub
-   [Задача 1, 2](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-fork), 
-   [Задача 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-pr)
+   [Задача 1, 2_ 3](https://github.com/Ekaterina-Isabel/git-homeworks-neuro-fork)
